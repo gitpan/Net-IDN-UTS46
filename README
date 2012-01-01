@@ -1,0 +1,24 @@
+OVERVIEW
+
+  Net::IDN::UTS46    -- Unicode IDNA Compatibility Processing
+			(Unicode Technical Standard #46)
+
+INSTALLATION
+
+  To install this module type the following:
+
+    perl Build.PL
+    ./Build
+    ./Build test
+    ./Build install
+
+DEPENDENCIES
+
+  This module requires these other modules and libraries:
+
+    Unicode::Normalize (core)
+    Net::IDN::Punycode
+
+AUTHOR
+
+  Claus Färber <CFAERBER@cpan.org>

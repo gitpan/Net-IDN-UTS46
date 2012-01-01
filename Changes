@@ -1,0 +1,24 @@
+Revision history for Perl extension Net::IDN::UTS46
+
+0.999_20120101
+	- move Net::IDN::UTS46 to separate distribution
+
+Revision history for Perl extension Net::IDN::Encode (excerpt)
+
+...
+
+1.900_20111224
+	- FIXES compatibility with perl 5.8.x 5.10.x
+
+1.900_20111220
+	- FIXES 'wide character' warning with tests if tests fail.
+
+1.900_20111219
+	- FIXES 'wide character' warning with tests it TB2 if used on modern
+	  perl installations.
+
+1.900_20111218
+	- initial implementation for UTS #46
+	- FIXES bug in Net::IDN::Punycode::PP
+
+...
