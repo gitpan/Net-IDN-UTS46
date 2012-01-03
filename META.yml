@@ -21,7 +21,7 @@ no_index:
 provides:
   Net::IDN::UTS46:
     file: lib/Net/IDN/UTS46.pm
-    version: 0.999_20120101
+    version: 0.999_20120102
   Net::IDN::UTS46::Mapping:
     file: lib/Net/IDN/UTS46/Mapping.pm
     version: 6.000000001
@@ -31,4 +31,4 @@ requires:
   perl: 5.008003
 resources:
   license: http://dev.perl.org/licenses/
-version: 0.999_20120101
+version: 0.999_20120102
